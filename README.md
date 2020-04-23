@@ -18,7 +18,6 @@ A built in grep tool allows the logs to be searched to locate entries which matc
 
 To enable logs to be used in other systems, the table can also be uploaded to elasticsearch or exported to CSV.
 
-
 Screenshots
 ----------------------
 
@@ -74,6 +73,7 @@ Step 5. If you like the project, give the repo a star! <3
 <b>Reporting bugs:</b>
 
 If you have found an issue, please report it in the GitHub project.
+
 
 <b>Latest version:</b>
 
